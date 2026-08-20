@@ -111,7 +111,7 @@ Inclúyala aquí:
 
 **¿Por qué una sola URL puede generar múltiples solicitudes HTTP?**
 
-> Escriba aquí su respuesta.
+> Se generan multiples solicitudes ya que una pagina no se compone de un unico archivo, el html es el esqueleto que une el css y el js que hace sus solicitudes idependientes 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ sequenceDiagram
 Guarde una captura de los detalles de la solicitud como:
 
 ``` text
-evidencias/request.png
+Evidencias/request.png
 ```
 
 Inclúyala en el informe:
