@@ -103,9 +103,9 @@ evidencias/network.png
 
 Inclúyala aquí:
 
-``` markdown
+
 ![Recursos cargados por la aplicación](evidencias/network.png)
-```
+
 
 ### Análisis
 
