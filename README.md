@@ -104,7 +104,7 @@ evidencias/network.png
 Inclúyala aquí:
 
 
-![Recursos cargados por la aplicación](evidencias/network.png)
+![Recursos cargados por la aplicación](Evidencias/network.png)
 
 
 ### Análisis
