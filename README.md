@@ -70,12 +70,18 @@ documento HTML, CSS, JavaScript, imágenes, fuentes u otros.
 
 Complete la tabla:
 
-  Recurso                     Tipo        Dominio                   Tamaño
-U-Catedras                    PNG       itm.edu.co                disk cache
-/m=el_main                   SCRIP      translate.googleapis.com    disk cache
-Formatos institucionales    DOCUMENT    itm.edu.co                93.3KB
-/m=el_main_css                CSS       gstatic.com                DISK CACHE
-loader                        git       itm.edu.co                 disk cache
+  Recurso                     Tipo        Dominio                   Tamaño <br>
+
+  
+U-Catedras                    PNG       itm.edu.co                disk cache <br>
+
+/m=el_main                   SCRIP      translate.googleapis.com    disk cache <br>
+
+Formatos institucionales    DOCUMENT    itm.edu.co                93.3KB <br>
+
+/m=el_main_css                CSS       gstatic.com                DISK CACHE <br>
+
+loader                        git       itm.edu.co                 disk cache <br>
 
 
   --------- ------ --------- --------
